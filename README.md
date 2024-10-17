@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/joaobrunosouza/Projeto-D31-Vendas/blob/main/V%C3%ADdeo%20Dashboard%20Vendas%20.gif" width="50%">
+<img src="https://github.com/joaobrunosouza/Projeto-D31-Vendas/blob/main/09450d68-4b12-4f35-8fb2-f388fce92a28.gif" width="100%">
 </div>
 
 
